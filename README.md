@@ -1,4 +1,4 @@
-Este código implementa uma aplicação Java simples que busca o endereço correspondente a um CEP fornecido pelo usuário, utiliza um serviço de busca, e gera um arquivo JSON com os dados do endereço. A aplicação segue os seguintes passos:
+Este código implementa uma aplicação Java que busca o endereço correspondente a um CEP fornecido pelo usuário, utiliza um serviço de busca, e gera um arquivo JSON com os dados do endereço. A aplicação segue os seguintes passos:
 
 - **Entrada de dados**: O programa solicita ao usuário que insira um CEP.
 - **Consulta de endereço**: O CEP é utilizado para buscar o endereço correspondente por meio da classe `CheckCep`, que provavelmente realiza uma chamada a uma API ou um serviço externo.
